@@ -1,12 +1,7 @@
 # Dataset
-datasets/test/
-datasets/train/
-datasets/split_weakly_0.pyb
-datasets/split_weakly_16.pyb
-datasets/split_weakly_53.pyb
-datasets/split_weakly_126.pyb
-datasets/split_weakly_246.pyb
-*.DS_store
+datasets/
+datasets/KolektorSDD2/
+!datasets/download_and_extract_KSDD2.py
 
 
 
