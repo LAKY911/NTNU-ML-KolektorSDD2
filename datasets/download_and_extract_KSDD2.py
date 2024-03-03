@@ -8,5 +8,6 @@ if __name__ == "__main__":
 
     with urlopen(zipurl) as zipresp:
         with ZipFile(BytesIO(zipresp.read())) as zfile:
-            zfile.extractall('./datasets/')
+            zfile.extractall('./datasets/KolektorSDD2/')
+    
     print('Done downloading and extracting KolektorSDD2 dataset.')
