@@ -2,6 +2,9 @@
 datasets/
 datasets/KolektorSDD2/
 !datasets/download_and_extract_KSDD2.py
+out_GT.png
+out.png
+CNN copy.ipynb
 
 
 
