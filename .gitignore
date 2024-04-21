@@ -11,6 +11,11 @@ test.ipynb
 test.py
 TF_segmentation.ipynb
 
+trainedModels/*
+Predicted Images/*
+hyperparameter_tuning_with_hparams.ipynb
+logs/*
+plots/*
 
 
 ############## DEFAULTLY CREATED BELLOW ########################################
