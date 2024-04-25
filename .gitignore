@@ -17,6 +17,9 @@ hyperparameter_tuning_with_hparams.ipynb
 logs/*
 plots/*
 
+U-Net-BayesianOptimisation.ipynb
+
+
 
 ############## DEFAULTLY CREATED BELLOW ########################################
 
